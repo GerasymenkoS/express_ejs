@@ -1,0 +1,12 @@
+[
+  { "id": "asia",
+    "name": "Asia",
+    "map": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Asia_on_the_globe_%28Asia_centered%29.svg/330px-Asia_on_the_globe_%28Asia_centered%29.svg.png",
+    "target": "/asia"
+  },
+  { "id": "europe",
+    "name": "Europe",
+    "map": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Europe_orthographic_Caucasus_Urals_boundary_%28with_borders%29.svg/330px-Europe_orthographic_Caucasus_Urals_boundary_%28with_borders%29.svg.png",
+    "target": "/europe"
+  }
+]

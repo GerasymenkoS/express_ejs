@@ -1,0 +1,34 @@
+[
+  {
+    "id":"china",
+    "name": "China",
+    "map": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/People%27s_Republic_of_China_%28orthographic_projection%29.svg/330px-People%27s_Republic_of_China_%28orthographic_projection%29.svg.png",
+    "target": "/asia/china",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/250px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+    "description": "China, officiallythe People's Republic of China (PRC), is a unitary sovereign state in East Asia and the world'smost populous country, with a population of around 1.404 billion..."
+  },
+  {
+    "id":"japan",
+    "name": "Japan",
+    "map": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Japan_%28orthographic_projection%29.svg/536px-Japan_%28orthographic_projection%29.svg.png",
+    "target": "/asia/japan",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/188px-Flag_of_Japan.svg.png",
+    "description": "Japan (Japanese: 日本 Nippon [ɲippoɴ] or Nihon [ɲihoɴ]; formally 日本国 About this sound Nippon-koku or Nihon-koku, meaning 'State of Japan') is a sovereign island nation in East Asia. Located in ..."
+  },
+  {
+    "id":"italy",
+    "name": "Italy",
+    "map": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/EU-Italy.svg/500px-EU-Italy.svg.png",
+    "target": "/europe/italy",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/250px-Flag_of_Italy.svg.png",
+    "description": "Italy (/ˈɪtəli/ IT-ə-lee; Italian: Italia [iˈtaːlja] About this sound Listen (help·info)), officially the Italian Republic (Italian: Repubblica italiana [reˈpubːlika itaˈljaːna]),[9][10][11][12] is a ..."
+  },
+  {
+    "id":"spain",
+    "name": "Spain",
+    "map": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/EU-Spain.svg/375px-EU-Spain.svg.png",
+    "target": "/europe/spain",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/250px-Flag_of_Spain.svg.png",
+    "description": "Spain (Spanish: España [esˈpaɲa] (About this sound listen)), officially the Kingdom of Spain (Spanish: Reino de España),[a][b] is a country mostly located on the Iberian Peninsula in Europe, with there also being two larg ..."
+  }
+  ]

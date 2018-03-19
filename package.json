@@ -1,0 +1,14 @@
+{
+  "name": "node_ejs_express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "ejs-locals": "^1.0.2",
+    "express": "^4.13.4",
+    "serve-favicon": "^2.4.5"
+  }
+}
